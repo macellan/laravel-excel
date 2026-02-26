@@ -29,7 +29,7 @@
     "illuminate/filesystem": ">=5.0",
     "illuminate/support": ">=5.0",
     "jeremeamia/superclosure": "^2.3",
-    "nesbot/carbon": "^2.17",
+    "nesbot/carbon": "^2.17||^3.0",
     "tijsverkoyen/css-to-inline-styles": "~2.2",
     "ext-dom": "*",
     "ext-simplexml": "*"
